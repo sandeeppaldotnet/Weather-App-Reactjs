@@ -31,7 +31,7 @@ Steps to run the app locally
 
     Clone the repository:
 
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/sandeeppaldotnet/Weather-App-Reactjs.git
 cd weather-app
 
 Install dependencies:
