@@ -10,7 +10,7 @@ import wind_icon from "../Assets/wind.png";
 import humidity_icon from "../Assets/humidity.png";
 
 const WeatherApp = () => {
-    const api_key = "962476e63ed6e8a94d5912667fbae07b";
+    const api_key = "your api key";
 
     // State variables to store weather data
     const [weatherData, setWeatherData] = useState({
